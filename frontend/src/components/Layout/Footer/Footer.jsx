@@ -10,10 +10,10 @@ const Footer = () => {
               <div className='footer-subscribe'>
                 <div className='footer-subscribe-top'>
                   <h3 className='subscribe-title'>
-                    Get our emails for info on new items, sales and more.
+                    Get our emails for info on new items, sales and more..
                   </h3>
                   <p className='subscribe-desc'>
-                    We&apos;ll email you a voucher worth $10 off your first
+                    We`ll email you a voucher worth $10 off your first
                     order over $50.
                   </p>
                 </div>
@@ -26,10 +26,8 @@ const Footer = () => {
                     <button className='btn'>Subscribe</button>
                   </form>
                   <p className='privacy-text'>
-                    By subscribing you agree to our{" "}
-                    <a href='#'>
-                      Terms & Conditions and Privacy & Cookies Policy.
-                    </a>
+                    By subscribing you agree to our
+                    <a href='#'>Terms & Conditions and Privacy & Cookies Policy.</a>
                   </p>
                 </div>
               </div>
@@ -38,9 +36,9 @@ const Footer = () => {
               <div className='footer-contact-top'>
                 <h3 className='contact-title'>
                   Need help? <br />
-                  (+90) 123 456 78 90
+                  (+90) 123 456 78 99
                 </h3>
-                <p className='contact-desc'>We are available 8:00am – 7:00pm</p>
+                <p className='contact-desc'>We are available 8:00am - 7:00pm</p>
               </div>
               <div className='footer-contact-bottom'>
                 <div className='download-app'>
@@ -81,7 +79,7 @@ const Footer = () => {
               </div>
               <div className='footer-contact'>
                 <p>
-                  <a href='tel:555 555 55 55'>(+800) 1234 5678 90</a> –{" "}
+                  <a href='tel:555 555 55 55'>(+800) 1234 5678 90</a> -
                   <a href='mailto:info@example.com'>info@example.com</a>
                 </p>
               </div>
@@ -173,10 +171,7 @@ const Footer = () => {
         <div className='container'>
           <div className='footer-copyright'>
             <div className='site-copyright'>
-              <p>
-                Copyright 2022 © E-Commerce Theme. All right reserved. Powered
-                by Emin Basbayan.
-              </p>
+              <p>Copyright 2024 © E-Commerce Theme. All right reserved.</p>
             </div>
             <a href='#'>
               <img src='img/footer/cards.png' alt='cards icons' />
